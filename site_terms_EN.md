@@ -63,9 +63,9 @@ The protection measures for physical assets (servers, PCs, etc.) and intangible 
 
 * Installation and operation of Closed-Circuit Television (CCTV) (24 hours, 1 unit)
 * Installation of access control devices (number key door locks)
-* Installation and periodic updating of antivirus software
+* [Installation and periodic updating of antivirus software<sup>(Certificate)</sup>](https://catswords.blob.core.windows.net/welsonjs/images/251213_Ahnlab_Product_Certificate_en.pdf)
 * Regular backup procedures
-* Application of file encryption software for files containing personal information
+* [Application of file encryption software for files containing personal information<sup>(Certificate)</sup>](https://catswords.blob.core.windows.net/welsonjs/images/251213_Ahnlab_Product_Certificate_en.pdf)
 * Periodic information security education for the Personal Information Protection Manager
 
 If you believe that this instance cannot sufficiently protect your personal information and rights, you can seek assistance from the following organizations:
