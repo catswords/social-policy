@@ -59,15 +59,15 @@
 
 * 영상정보처리기기(CCTV)의 설치 및 운영 (24시간, 1대)
 * 출입통제장치(번호키 도어락) 설치
-* [안티바이러스 소프트웨어 설치 및 주기적 업데이트 실시<sup>(증서)</sup>](https://catswords.blob.core.windows.net/welsonjs/images/251213_Ahnlab_Product_Certificate.pdf)
+* [안티바이러스 소프트웨어 설치 및 주기적 업데이트 실시<sup>(파일 첨부됨)</sup>](https://catswords.blob.core.windows.net/welsonjs/images/251213_Ahnlab_Product_Certificate.pdf)
 * 주기적 백업 실시
-* [개인정보가 포함된 파일을 대상으로 파일 암호화 소프트웨어 적용<sup>(증서)</sup>](https://catswords.blob.core.windows.net/welsonjs/images/251213_Ahnlab_Product_Certificate.pdf)
-* 개인정보보호책임자의 주기적 정보보호 교육 청취
+* [개인정보가 포함된 파일을 대상으로 파일 암호화 소프트웨어 적용<sup>(파일 첨부됨)</sup>](https://catswords.blob.core.windows.net/welsonjs/images/251213_Ahnlab_Product_Certificate.pdf)
+* [개인정보보호책임자의 주기적 정보보호 교육 청취<sup>(파일 첨부됨)</sup>](https://catswords.blob.core.windows.net/welsonjs/images/certificate-privacy-catswords-2025.pdf)
 
 본 서버가 이용자의 개인정보 및 권익을 충분히 보호하지 못한다고 여겨지는 경우 아래 기관의 도움을 받을 수 있습니다.
 
 * 한국인터넷진흥원, 118, [privacy.kisa.or.kr](https://privacy.kisa.or.kr)
-* 개인정보 분쟁조정위원회, 1833-6972, [www.kopico.go.kr](https://www.kopico.go.kr)
+* 개인정보분쟁조정위원회, 1833-6972, [www.kopico.go.kr](https://www.kopico.go.kr)
 * 통신분쟁조정위원회, 142-246, [www.tdrc.kr](https://www.tdrc.kr)
 * 콘텐츠분쟁조정위원회, 1588-2594, [www.kcdrc.kr](https://www.kcdrc.kr)
 * 대검찰청 사이버범죄수사단, 1833-6972, [www.spo.go.kr](https://www.spo.go.kr)

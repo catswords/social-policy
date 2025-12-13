@@ -61,18 +61,20 @@ The protection measures for physical assets (servers, PCs, etc.) and intangible 
 
 * Installation and operation of Closed-Circuit Television (CCTV) (24 hours, 1 unit)
 * Installation of access control devices (number key door locks)
-* [Installation and periodic updating of antivirus software<sup>(Certificate)</sup>](https://catswords.blob.core.windows.net/welsonjs/images/251213_Ahnlab_Product_Certificate_en.pdf)
+* [Installation and periodic updating of antivirus software<sup>(File attached)</sup>](https://catswords.blob.core.windows.net/welsonjs/images/251213_Ahnlab_Product_Certificate_en.pdf)
 * Regular backup procedures
-* [Application of file encryption software for files containing personal information<sup>(Certificate)</sup>](https://catswords.blob.core.windows.net/welsonjs/images/251213_Ahnlab_Product_Certificate_en.pdf)
-* Periodic information security education for the Personal Information Protection Manager
+* [Application of file encryption software for files containing personal information<sup>(File attached)</sup>](https://catswords.blob.core.windows.net/welsonjs/images/251213_Ahnlab_Product_Certificate_en.pdf)
+* [Periodic information security education for the Personal Information Protection Manager<sup>(File attached)</sup>](https://catswords.blob.core.windows.net/welsonjs/images/certificate-privacy-catswords-2025.pdf)
 
 If you believe that this instance cannot sufficiently protect your personal information and rights, you can seek assistance from the following organizations:
 
-* Korea Internet & Security Agency (KISA), 118, privacy.kisa.or.kr
-* Personal Information Dispute Mediation Committee, 1833-6972, www.kopico.go.kr
-* Cybercrime Investigation Division, Supreme Prosecutors' Office, 1833-6972, www.spo.go.kr
-* Cyber Safety Bureau, National Police Agency, 182, cyberbureau.police.go.kr
-* National Intelligence Service, 111, www.nis.go.kr
+* Korea Internet & Security Agency (KISA), 118, [privacy.kisa.or.kr](https://privacy.kisa.or.kr)
+* Personal Information Dispute Mediation Committee, 1833-6972, [www.kopico.go.kr](https://www.kopico.go.kr)
+* elecommunications Dispute Resolution Committee, 142-246, [www.tdrc.kr](https://www.tdrc.kr)
+* Content Dispute Resolution Committee, 1588-2594, [www.kcdrc.kr](https://www.kcdrc.kr)
+* Supreme Prosecutors’ Office – Cyber Crime Investigation Division, 1833-6972, [https://www.spo.go.kr](https://www.spo.go.kr)
+* Korean National Police Agency – Cyber Bureau, 182, [cyberbureau.police.go.kr](https://cyberbureau.police.go.kr)
+* National Intelligence Service (NIS), 111, [www.nis.go.kr](https://www.nis.go.kr)
 
 By joining this instance, you are considered to agree to this privacy policy.
 
