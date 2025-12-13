@@ -55,9 +55,7 @@ Catswords Colosseum does not sell data to third parties. Transfer of personal in
 
 For the smooth operation of this instance, collected personal information may be transferred abroad. For more details, please refer to [this link](hosting_locations.md).
 
-This instance utilizes tracking prevention or similar technologies to technically support users attempting to explore information. However, using tracking prevention may cause issues with cookies or similar technologies, so it does not guarantee normal use of this instance.
-
-* http://alagqg2wvxgmgoti27fn22pndmanrdl3duullv5gqpe76l66tsuplmad.onion (Tor network)
+This instance uses tracking prevention or similar technologies to support users in exploring information upon request. However, these measures may interfere with cookies or related technologies, and therefore normal operation of the instance cannot be guaranteed.
 
 The protection measures for physical assets (servers, PCs, etc.) and intangible assets in electronic form (software, databases, files, etc.) for operating this instance are as follows:
 
@@ -78,4 +76,4 @@ If you believe that this instance cannot sufficiently protect your personal info
 
 By joining this instance, you are considered to agree to this privacy policy.
 
-This privacy policy is effective from July 31, 2025, 09:00 UTC+9 (KST).
+This privacy policy is effective from December 15, 2025, 09:00 UTC+9 (KST).
