@@ -57,9 +57,9 @@
 
 * 영상정보처리기기(CCTV)의 설치 및 운영 (24시간, 1대)
 * 출입통제장치(번호키 도어락) 설치
-* 안티바이러스 소프트웨어 설치 및 주기적 업데이트 실시
+* [안티바이러스 소프트웨어 설치 및 주기적 업데이트 실시<sup>(증서)</sup>](https://catswords.blob.core.windows.net/welsonjs/images/251213_Ahnlab_Product_Certificate.pdf)
 * 주기적 백업 실시
-* 개인정보가 포함된 파일을 대상으로 파일 암호화 소프트웨어 적용
+* [개인정보가 포함된 파일을 대상으로 파일 암호화 소프트웨어 적용<sup>(증서)</sup>](https://catswords.blob.core.windows.net/welsonjs/images/251213_Ahnlab_Product_Certificate.pdf)
 * 개인정보보호책임자의 주기적 정보보호 교육 청취
 
 본 서버가 이용자의 개인정보 및 권익을 충분히 보호하지 못한다고 여겨지는 경우 아래 기관의 도움을 받을 수 있습니다.
