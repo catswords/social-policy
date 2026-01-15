@@ -14,9 +14,7 @@
 
 * 운영자: 캐츠워즈리서치 (catswords.com)
 * 개인정보 보호책임자: 고남현 (gnh1201@catswords.re.kr)
-* 우편 보내실 곳: (63134) 제주특별자치도 제주시 신대로 145, 맨써빌딩 6층 1-18호
-
-> 우편 보내실 곳 (해외): 104 N Houston St #2980, SMB#104941, College Station, TX 77841, USA
+* 우편 보내실 곳: (63134) 제주특별자치도 제주시 신대로 145, 맨써빌딩 6층 1-18호 <sup>[(Are you not in Korea?)](site_extended_description_EN.md)</sup>
 
 개인정보 정책은 [이 링크](site_terms.md)를 참고하여 주시기 바랍니다. 정보접근성 관련 안내사항은 [이 링크](accessibility.md)를 참고하여 주시기 바랍니다.
 
