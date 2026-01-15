@@ -14,8 +14,8 @@ Below is the contact information and legal notice for the responsible party:
 * Personal Information Officer: Namhyeon Go (gnh1201@catswords.re.kr)
 * Mailing Address: (63134) 6F-1-18, 145, Sindae-ro, Jeju-si, Jeju-do, Republic of Korea
 
-> * Mailing Address (Outside Korea): 104 N Houston St #2980, SMB#104941, College Station, TX 77841, USA
-> * Telephone (Outside Korea): (866) 895-0932 (USA)
+> * Mailing Address (International): 104 N Houston St #2980, SMB#104941, College Station, TX 77841, USA
+> * Telephone (International): +1 (866) 895-0932
 
 The collected personal information includes the following:
 
