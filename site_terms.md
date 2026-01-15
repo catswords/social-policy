@@ -3,7 +3,7 @@
 
 캐츠워즈 콜로세움(이하 '서버') 이용 중 문제 발생 시 아래 긴급 연락처를 살펴봐주시기 바랍니다.
 
-* 전자우편: abuse@catswords.net
+* 전자우편: abuse@catswords.re.kr
 * [Microsoft Teams에서 Catswords OSS 가입 (teams.live.com)](https://teams.live.com/l/community/FEACHncAhq8ldnojAI)
 * [Discord에서 Catswords OSS #activitypub 가입 (discord.gg)](https://discord.gg/Q9MWa6bjGP)
 * 본 서버는 신고 기능이 활성화되어 있습니다.
