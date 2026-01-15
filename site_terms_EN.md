@@ -80,4 +80,4 @@ If you believe that this instance cannot sufficiently protect your personal info
 
 By joining this instance, you are considered to agree to this privacy policy.
 
-This privacy policy is effective from January 15, 09:00 UTC+9 (KST).
+This privacy policy is effective from January 16, 09:00 UTC+9 (KST).
