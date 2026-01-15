@@ -17,8 +17,8 @@ Below are the contact details and legal information:
 * Operator: Catswords Research (catswords.com)
 * Personal Information Officer: Namhyeon Go (gnh1201@catswords.re.kr)
 * Mailing Address:
-  * (63134) 6F-1-18, 145, Sindae-ro, Jeju-si, Jeju-do, Republic of Korea
-  * 104 N Houston St #2980, SMB#104941, College Station, TX 77841, USA
+  * (Korea) (63134) 6F-1-18, 145, Sindae-ro, Jeju-si, Jeju-do, Republic of Korea
+  * (Outside of Korea) 104 N Houston St #2980, SMB#104941, College Station, TX 77841, USA
 
 Please refer to [this link](site_terms.md) for the privacy policy. Information on accessibility can be found [here](accessibility.md).
 
