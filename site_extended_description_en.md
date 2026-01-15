@@ -5,9 +5,7 @@ Catswords Colosseum (catswords.social) is a social media server (hereinafter ref
 
 In case of issues during the use of 'Catswords Colosseum,' please refer to the emergency contact information below.
 
-* Email: abuse@catswords.net
-* Phone: +82-70-7735-3586
-* Fax: +82-32-232-7628
+* Email: abuse@catswords.re.kr
 * [Join Catswords OSS on Microsoft Teams (teams.live.com)](https://teams.live.com/l/community/FEACHncAhq8ldnojAI)
 * [Join Catswords OSS #activitypub on Discord (discord.gg)](https://discord.gg/Q9MWa6bjGP)
 * This server has the abuse reporting feature enabled.
