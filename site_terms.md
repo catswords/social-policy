@@ -1,5 +1,5 @@
 ## 개인정보보호정책
-[English version available](site_terms_EN.md)
+[English version available](site_terms_en.md)
 
 캐츠워즈 콜로세움(이하 '서버') 이용 중 문제 발생 시 아래 긴급 연락처를 살펴봐주시기 바랍니다.
 
@@ -12,7 +12,7 @@
 
 * 운영자: 캐츠워즈리서치 (catswords.com)
 * 개인정보 보호책임자: 고남현 (gnh1201@catswords.re.kr)
-* 우편 보내실 곳: (63134) 제주특별자치도 제주시 신대로 145, 맨써빌딩 6층 1-18호 <sup>[(Are you not in Korea?)](site_terms_EN.md)</sup>
+* 우편 보내실 곳: (63134) 제주특별자치도 제주시 신대로 145, 맨써빌딩 6층 1-18호 <sup>[(Are you not in Korea?)](site_terms_en.md)</sup>
 
 처리하는 개인정보의 항목은 다음과 같습니다.
 
