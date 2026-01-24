@@ -63,7 +63,7 @@
 * 주기적 백업 실시
 * [개인정보가 포함된 파일을 대상으로 파일 암호화 소프트웨어 적용<sup>(파일 첨부됨)</sup>](https://catswords.blob.core.windows.net/welsonjs/images/251213_Ahnlab_Product_Certificate.pdf)
 * [개인정보보호책임자의 주기적 정보보호 교육 청취<sup>(파일 첨부됨)</sup>](https://catswords.blob.core.windows.net/welsonjs/images/certificate-privacy-catswords-2025.pdf)
-* 개인정보의 물리적 파쇄 절차 수립
+* 개인정보 기록 매체의 물리적 파쇄 절차 수립
 
 본 서버가 이용자의 개인정보 및 권익을 충분히 보호하지 못한다고 여겨지는 경우 아래 기관의 도움을 받을 수 있습니다.
 
