@@ -66,6 +66,7 @@ The protection measures for physical assets (servers, PCs, etc.) and intangible 
 * Regular backup procedures
 * [Application of file encryption software for files containing personal information<sup>(File attached)</sup>](https://catswords.blob.core.windows.net/welsonjs/images/251213_Ahnlab_Product_Certificate_en.pdf)
 * [Periodic information security education for the Personal Information Protection Manager<sup>(File attached)</sup>](https://catswords.blob.core.windows.net/welsonjs/images/certificate-privacy-catswords-2025.pdf)
+* Establishment of procedures for the physical destruction of personal information storage media
 
 If you believe that this instance cannot sufficiently protect your personal information and rights, you can seek assistance from the following organizations:
 
@@ -79,4 +80,4 @@ If you believe that this instance cannot sufficiently protect your personal info
 
 By joining this instance, you are considered to agree to this privacy policy.
 
-This privacy policy is effective from January 16, 09:00 UTC+9 (KST).
+This privacy policy is effective from January 26, 09:00 UTC+9 (KST).
