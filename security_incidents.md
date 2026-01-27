@@ -20,8 +20,8 @@ Lua 기반 악성코드 로더(Lua Loader) 가 유포된 정황이 확인되었�
 
 아래는 보안 벤더 분석을 통해 악성으로 판정된 파일 해시 목록입니다.
 
-* `bfa702a87c14dc0b6f4bc213443749bd` (AhnLab-V3: Infostealer/CMD.RunLua:2026.01.26.03)
-* `aaac548d0666c5e8496e52213f8d48cb` (AhnLab-V3: Infostealer/Script.RunLua.SC300406:2026.01.26.03)
+* `bfa702a87c14dc0b6f4bc213443749bd` (AhnLab-V3: `Infostealer/CMD.RunLua`:2026.01.26.03)
+* `aaac548d0666c5e8496e52213f8d48cb` (AhnLab-V3: `Infostealer/Script.RunLua.SC300406`:2026.01.26.03)
 
 ### 권고 사항
 
