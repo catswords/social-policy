@@ -78,20 +78,17 @@ WelsonJS 프레임워크에 포함된 일부 코드 스니펫과 유사한 형�
 
 ## 커뮤니티 소통 채널
 
-WelsonJS / Catswords OSS는 보안 이슈에 대해
-개방적이고 투명한 논의를 지향합니다.
+Catswords OSS는 보안 이슈에 대해 개방적이고 투명한 논의를 지향합니다.
 
-* Discord: `#welsonjs` (Catswords OSS)
+* Discord: `#talk` (Catswords OSS)
 * ActivityPub (Fediverse): `@catswords_oss@catswords.social`
 
 의견 공유, 질문, 보안 관련 제보 모두 환영합니다.
 
-## 마무리 안내
+## 마무리
 
-WelsonJS / Catswords OSS는
-오픈소스의 투명성, 책임 있는 보안 대응, 그리고 사용자 신뢰를 최우선 가치로 삼고 있습니다.
+Catswords OSS는 오픈소스의 투명성, 책임 있는 보안 대응, 그리고 사용자 신뢰를 최우선 가치로 삼고 있습니다.
 
-보안 사고 또는 오용 사례가 확인될 경우,
-본 문서를 통해 지속적으로 관련 정보를 공유하겠습니다.
+보안 사고 또는 오용 사례가 확인될 경우, 본 문서를 통해 지속적으로 관련 정보를 공유하겠습니다.
 
 감사합니다.
