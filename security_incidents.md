@@ -1,6 +1,6 @@
 # Security Incidents
 
-본 문서는 WelsonJS / Catswords OSS 프로젝트와 관련하여 보고되었거나 외부에서 연관성이 제기된 보안 사고(Security Incidents)를 투명하게 공유하기 위해 작성되었습니다.
+본 문서는 Catswords OSS 프로젝트와 관련하여 보고되었거나 외부에서 연관성이 제기된 보안 사고(Security Incidents)를 투명하게 공유하기 위해 작성되었습니다.
 
 아래에 기술된 모든 내용은 사실 확인된 정보만을 기반으로 하며, 각 사안에 대한 프로젝트의 공식 입장을 함께 명시합니다.
 
