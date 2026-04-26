@@ -12,5 +12,6 @@ Here are documents to help you use Catswords Colosseum (catswords.social):
 * [pgpkey.md](pgpkey.md)
 * [xmpp.md](xmpp.md)
 * [security_incidents.md](security_incidents.md)
+* [affiliations.md](affiliations.md)
 
 Website: https://catswords.social
